@@ -48,10 +48,10 @@ How to become more attractive in dating app?
 ## Data preparation
 
 ### Data Exploration
--3972 responses
--43 features
--All female
--Taken integer and boolean values as primary exploration
+- 3972 responses
+- 43 features
+- All female
+- Taken integer and boolean values as primary exploration
 
 ### Understanding the Data
 
