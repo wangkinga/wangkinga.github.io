@@ -14,12 +14,9 @@ All code is located under the src directory.
 
 Please read through the code in the flowing sequence:
 
-- [`DataPreparationAndExploration.ipynb`](./src/DataPreparationAndExploration.ipynb)
-- [`GenderRecognitionUsingTreeBasedAlgorithms.ipynb`](./src/GenderRecognitionUsingTreeBasedAlgorithms.ipynb)
-- [`GenderRecognitionUsingNumericalAlgorithms.ipynb`](./src/GenderRecognitionUsingNumericalAlgorithms.ipynb)
-- [`SVMFurtherExploration.ipynb`](./src/SVMFurtherExploration.ipynb)
-- [`PCAFurtherExploration.ipynb`](./src/PCAFurtherExploration.ipynb)
-- [`EnsembleVoteModelExploration.ipynb`](./src/EnsembleVoteModelExploration.ipynb)
+- [`1015P_gp7.ipynb`](1015P_gp7.ipynb)
+- [`Base data1`](lovoo_v3_users_api-results.csv)
+- [`Base data2`](lovoo_v3_users_instances.csv)
 
 #### Overview of our project
 
