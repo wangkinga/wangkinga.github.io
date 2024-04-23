@@ -2,7 +2,7 @@
 
 Welcome to our project for the NTU course *SC1015 Introduction to Data Science and Artificial Intelligence*!
 
-In this project, we explore the How to improve the personal charm in lovoo (dating success rate).
+In this project, we explore how to become more attractive on dating app(lovoo).
 
 The main page of our project is [here](https://pufanyi.github.io/GenderRecognitionByVoice).
 
@@ -25,14 +25,27 @@ Please read through the code in the flowing sequence:
 
 ![](./images/Overview/FlowChart.svg)
 
+
+## Motivation
+
+Digital Evolution
+
+- In the age of digital courtship, dating apps have become a central platform for romantic connections
+- These platforms' success significantly depends on the perceived attractiveness of users' profiles, impacting both match potential and user engagement.
+
+Profile Optimization Benefits
+
+-For individual users, comprehending what makes a profile attractive enhances their dating prospects.
+-For app developers, this knowledge helps improve user experience and satisfaction on their platforms.
+
 ## Problem Formulation
 
-How can we classify the gender of a speaker through their voice?
+How to become more attractive in dating app?
 
-- What are the key features to classify the gender of a speaker?
-- Which models can predict the gender of a speaker with higher accuracy?
+- Which variable most effectively indicates the attractiveness of a user on dating apps?
+- What variables demonstrate a strong correlation with the key indicator of attractiveness?
 
-## Highlights of Data preparation
+## Data preparation
 
 ### Remove Duplicate Data
 
