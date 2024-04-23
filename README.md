@@ -47,29 +47,39 @@ How to become more attractive in dating app?
 
 ## Data preparation
 
-### Remove Duplicate Data
+### Data Exploration
+-3972 responses
+-43 features
+-All female
+-Taken integer and boolean values as primary exploration
 
-The features `meanfreq` (mean frequency) and `centroid` (frequency centroid) were found to be identical in definition, so we removed the duplicate data to avoid redundancy and potential confusion in the analysis.
+### Understanding the Data
 
-### Data Correction
+#### Integer Data
 
-To prepare the input data, we performed data correction by applying a log transformation. This helped to mitigate the impact of extreme values and normalize the distribution of the data. The log transformation effectively reduced skewness, brought the data closer to a normal distribution, and improved the accuracy of our model by mitigating the influence of outliers. Overall, this data correction technique proved to be an effective way to preprocess the input data and enhance the performance of our model.
+##### Central Tendency of frequency
+##### Spread of frequency
+-Mean Medium Q25 Q50 Skew
 
-#### Data Before Log Transformation
+#### Boolean Data
 
+##### Feature engineering
+##### Spread of frequency
+-Mean Medium Q25 Q50 Skew
+
+### Quantile-based discretization
+
+-Helps in capturing the inherent variability within the data
+-Reduce noise and focusing on broader trends rather than individual data points
 ![](./images/DataPreparation/LogTransform1.png)
 
-#### Data After Log Transformation
+### Feature engineering
 
-![](./images/DataPreparation/LogTransform2.png)
+-Convert individual boolean indicators into a more informative ordinal scale
+-Simplifies the input for modeling and may reveal patterns more effectively
 
-### Data Normalization
 
-The purpose of normalization is to ensure that all features are treated equally in terms of their scale. After applying normalization, we saw a remarkable increase in accuracy of our SVM model from 0.6934 to 0.9834.
 
-### Outlier Removal
-
-When dealing with datasets with a large number of predictors, it can be challenging to perform outlier removal on each specific predictor. Therefore, we utilized the Isolation Forest algorithm to identify and remove outliers from the input data.
 
 ## Models Used
 
