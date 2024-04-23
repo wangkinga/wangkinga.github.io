@@ -59,24 +59,24 @@ How to become more attractive in dating app?
 
 ##### Central Tendency of frequency
 ##### Spread of frequency
--Mean Medium Q25 Q50 Skew
+- Mean Medium Q25 Q50 Skew
 
 #### Boolean Data
 
 ##### Feature engineering
 ##### Spread of frequency
--Mean Medium Q25 Q50 Skew
+- Mean Medium Q25 Q50 Skew
 
 ### Quantile-based discretization
 
--Helps in capturing the inherent variability within the data
--Reduce noise and focusing on broader trends rather than individual data points
+- Helps in capturing the inherent variability within the data
+- Reduce noise and focusing on broader trends rather than individual data points
 ![](./images/DataPreparation/LogTransform1.png)
 
 ### Feature engineering
 
--Convert individual boolean indicators into a more informative ordinal scale
--Simplifies the input for modeling and may reveal patterns more effectively
+- Convert individual boolean indicators into a more informative ordinal scale
+- Simplifies the input for modeling and may reveal patterns more effectively
 
 
 
