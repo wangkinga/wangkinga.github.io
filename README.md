@@ -14,9 +14,9 @@ All code is located under the src directory.
 
 Please read through the code in the flowing sequence:
 
-- [`1015P_gp7.ipynb`](1015P_gp7.ipynb)
 - [`Base data1`](lovoo_v3_users_api-results.csv)
 - [`Base data2`](lovoo_v3_users_instances.csv)
+- [`Whole project`](1015P_gp7.ipynb)
 
 #### Overview of our project
 
