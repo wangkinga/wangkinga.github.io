@@ -18,11 +18,6 @@ Please read through the code in the flowing sequence:
 - [`Base data2`](lovoo_v3_users_instances.csv)
 - [`Whole project`](1015P_gp7.ipynb)
 
-#### Overview of our project
-
-![](./images/Overview/FlowChart.svg)
-
-
 ## Motivation
 
 Digital Evolution
@@ -68,8 +63,6 @@ How to become more attractive in dating app?
 
 - Helps in capturing the inherent variability within the data
 - Reduce noise and focusing on broader trends rather than individual data points
-
-![](./images/DataPreparation/LogTransform1.png)
 
 ### Feature engineering
 
@@ -118,7 +111,7 @@ Which models can predict the gender of a speaker with higher accuracy?
 | Name | Email | 
 | --- | --- | 
 | Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) |
-| Dai Shiyu | [D220006@e.ntu.edu.sg](mailto:D220006@e.ntu.edu.sg) | 
+| Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | 
 
 ## Reference
 
