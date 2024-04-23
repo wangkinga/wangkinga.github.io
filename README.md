@@ -1,4 +1,4 @@
-[![](./images/Cover/cover.svg)](https://pufanyi.github.io/GenderRecognitionByVoice/)
+[![](.cover.png)](https://pufanyi.github.io/GenderRecognitionByVoice/)
 
 Welcome to our project for the NTU course *SC1015 Introduction to Data Science and Artificial Intelligence*!
 
