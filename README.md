@@ -71,6 +71,7 @@ How to become more attractive in dating app?
 
 - Helps in capturing the inherent variability within the data
 - Reduce noise and focusing on broader trends rather than individual data points
+
 ![](./images/DataPreparation/LogTransform1.png)
 
 ### Feature engineering
@@ -79,39 +80,21 @@ How to become more attractive in dating app?
 - Simplifies the input for modeling and may reveal patterns more effectively
 
 
+## Machine Learning
 
+### LinearRegression
 
-## Models Used
+- Explore what integer values imposes an effect on counts_kisses
+- Explore which integer variable have a stronger correlation with counts_kisses
 
-| Model | Training Accuracy | Testing Accuracy |
-| --- | --- | --- |
-| Classification Tree | 1.0000 | 0.9751 |
-| Random Forest | 1.0000 | 0.9801 |
-| Logistic Regression | 0.9763 | 0.9734 |
-| K-Nearest Neighbors | 1.0000 | 0.9817 |
-| Support Vector Machine | 0.9896 | 0.9834 |
-| Multi-Layer Perceptron | 1.0000 | 0.9734 |
-| Ensemble Vote | 1.0000 | 0.9800 |
+### Decision Tree
 
-![](./images/MachineLearning/accuracy.png)
+- Explore correlation between boolean value and counts_kisses
+- Explore which boolean value have a stronger correlation with counts_kisses
 
-## Highlights of Machine Learning
+### Chi-test
 
-### Cross Validation (CV)
-
-Previously, we employed a conventional train-test split to evaluate the performance of our gender classification model. In order to further improve the accuracy and efficiency of our algorithm, we utilized CV to evaluate the model's generalization performance and reduce overfitting.
-
-### Support Vector Machines (SVM) Exploration
-
-We conducted an in-depth analysis of SVM by exploring and adjusting its parameters to achieve optimal performance. To explicitly refine our understanding of each parameter, we plotted the separating hyperplane for different parameter and kernel. This process allowed us to fine-tune the SVM algorithm and gain a better understanding of its behavior.
-
-### Principal Component Analysis (PCA)
-
-We aimed to improve efficiency by compressing the predictor data using PCA. Through our exploration of compressing the data to varying dimensions and assessing the resulting accuracy, we gained a deeper understanding of the application of PCA. Our findings demonstrate that by compressing the data to a certain degree, we can achieve a good balance between accuracy and efficiency, leading to better performance in our predictive modeling.
-
-### Ensemble Vote Model
-
-We developed an Ensemble Vote model that integrated the outputs of multiple high-performing models, including Random Forest (RF), Support Vector Machine (SVM), Multi-Layer Perceptron (MLP),and selected the majority vote to improve our prediction results. However, the accuracy of the Ensemble Vote model did not meet our expectations. This experience taught us the importance of carefully selecting and combining models based on their individual strengths and weaknesses, and considering the underlying assumptions and limitations of each model. We also learned the significance of interpreting the results and understanding the reasoning behind the outputs, rather than blindly relying on a model's prediction.
+- Explore correlation between boolean values
 
 ## Conclusion
 
