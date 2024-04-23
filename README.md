@@ -4,7 +4,7 @@ Welcome to our project for the NTU course *SC1015 Introduction to Data Science a
 
 In this project, we explore how to become more attractive on dating app(lovoo).
 
-The main page of our project is [here](https://pufanyi.github.io/GenderRecognitionByVoice).
+The main page of our project is [here](https://wangkinga.github.io/).
 
 And our presentation video is [here](https://youtu.be/sWD81_SmO8E).
 
