@@ -24,7 +24,6 @@ Digital Evolution
 
 - In the age of digital courtship, dating apps have become a central platform for romantic connections
 - These platforms' success significantly depends on the perceived attractiveness of users' profiles, impacting both match potential and user engagement.
-
 Profile Optimization Benefits
 
 -For individual users, comprehending what makes a profile attractive enhances their dating prospects.
