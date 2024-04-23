@@ -65,29 +65,32 @@
       <img src="./images/Overview/FlowChart.svg" class="flow-chart" />
     </p>
     <h2 id="problem-formulation">Problem Formulation</h2>
-    <p>How can we classify the gender of a speaker through their voice?</p>
+    <p>How to become more attractive in dating app?</p>
     <ul>
-      <li>What are the key features to classify the gender of a speaker?</li>
-      <li>Which models can predict the gender of a speaker with higher accuracy?</li>
+      <li>Which variable most effectively indicates the attractiveness of a user on dating apps?</li>
+      <li>What variables demonstrate a strong correlation with the key indicator of attractiveness?</li>
     </ul>
-    <h2 id="highlights-of-data-preparation">Highlights of Data preparation</h2>
-    <h3 id="remove-duplicate-data">Remove Duplicate Data</h3>
-    <p>The features
-      <code>meanfreq</code>(mean frequency) and
-      <code>centroid</code>(frequency centroid) were found to be identical in definition, so we removed the
-      duplicate data to avoid redundancy and potential confusion in the analysis.
-    </p>
-    <h3 id="data-correction">Data Correction</h3>
-    <p>To prepare the input data, we performed data correction by applying a log transformation. This helped to
-      mitigate the impact of extreme values and normalize the distribution of the data. The log transformation
-      effectively reduced skewness, brought the data closer to a normal distribution, and improved the accuracy of
-      our model by mitigating the influence of outliers. Overall, this data correction technique proved to be an
-      effective way to preprocess the input data and enhance the performance of our model.</p>
-    <h4 id="data-before-log-transformation">Data Before Log Transformation</h4>
+    <h2 id="data-preparation">Data preparation</h2>
+    <h3 id="data-exploration">Data Exploration</h3>
+    <p>3972 responses</p>
+    <p>43 features</p>
+    <p>All female</p>
+    <p>Taken integer and boolean values as primary exploration</p>
+    <h3 id="understanding-the-data">Understanding the Data</h3>
+    <h4 id="integer-data">Integer Data</h4>
+    <h5 id="central-tendency-of-frequency">Central Tendency of frequency</h5>
+    <h5 id="spread-of-frequency">Spread of frequency</h5>
+    <p>Mean Medium Q25 Q50 Skew</p>
+    <h4 id="boolean-data">Boolean Data</h4>
+    <h5 id="feature-engineering">Feature engineering</h5>
+    <h5 id="spread-of-frequency">Spread of frequency</h5>
+    <p>Mean Medium Q25 Q50 Skew</p>
+    
+    <h3 id="quantile-based-discretization">Quantile-based discretization</h3>
     <p>
       <img src="./images/DataPreparation/BeforeLogDark.png" />
     </p>
-    <h4 id="data-after-log-transformation">Data After Log Transformation</h4>
+    <h3 id="feature-engineering">Feature engineering</h3>
     <p>
       <img src="./images/DataPreparation/AfterLogDark.png" />
     </p>
