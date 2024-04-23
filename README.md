@@ -2,7 +2,7 @@
 
 Welcome to our project for the NTU course *SC1015 Introduction to Data Science and Artificial Intelligence*!
 
-In this project, we explore the relationship between sound data and the gender of the speaker, and develop models to estimate the gender of a speaker based on various features.
+In this project, we explore the How to improve the personal charm in lovoo (dating success rate).
 
 The main page of our project is [here](https://pufanyi.github.io/GenderRecognitionByVoice).
 
