@@ -90,9 +90,9 @@ How to become more attractive in dating app?
 Insights 
 
 > -  Distance seems to play a significant role in user engagement, as suggested by the chi-square test results between distance_category and kisses_category.
-  - The levels of expressed flirtatious interest are strongly associated with the likelihood of receiving more 'kisses', an indicator of attractiveness on the platform.
-  - The logistic regression analysis highlighted the importance of specific categories within flirt interest and distance_category, quantifying their unique impacts on the likelihood of higher kisses_category.
-  - The use of decision trees demonstrated the importance of counts_kisses as a feature, and how different variables interact with it to affect a user's perceived attractiveness.
+> - The levels of expressed flirtatious interest are strongly associated with the likelihood of receiving more 'kisses', an indicator of attractiveness on the platform.
+> - The logistic regression analysis highlighted the importance of specific categories within flirt interest and distance_category, quantifying their unique impacts on the likelihood of higher kisses_category.
+> - The use of decision trees demonstrated the importance of counts_kisses as a feature, and how different variables interact with it to affect a user's perceived attractiveness.
 
 Sub-problem
 - Which variable most effectively indicates the attractiveness of a user on dating apps?
