@@ -87,25 +87,30 @@ How to become more attractive in dating app?
 
 ## Conclusion
 
-What are the key features to classify the gender of a speaker through their voice?
+Insights 
 
-> According to classification tree analysis, `IQR` and `meanfun` have been identified as the two main predictors for differentiating male and female voices. A higher `IQR` and lower `meanfun` are more indicative of a male speaker.
+> Distance seems to play a significant role in user engagement, as suggested by the chi-square test results between distance_category and kisses_category.
+> The levels of expressed flirtatious interest are strongly associated with the likelihood of receiving more 'kisses', an indicator of attractiveness on the platform.
+> The logistic regression analysis highlighted the importance of specific categories within flirt interest and distance_category, quantifying their unique impacts on the likelihood of higher kisses_category.
+> The use of decision trees demonstrated the importance of counts_kisses as a feature, and how different variables interact with it to affect a user's perceived attractiveness.
 
-Which models can predict the gender of a speaker with higher accuracy?
+Sub-problem
+- Which variable most effectively indicates the attractiveness of a user on dating apps?
+> Counts_kisses
 
-> Among the various models, the SVM model with an RBF kernel achieved the highest accuracy, with a score of 0.9834.
+- What variables demonstrate a strong correlation with the key indicator of attractiveness?
+> Profile_visits ， Distance category ， Flirt_interest
 
-## What We Learnt
+## Improvements
 
-- Importance of data preparation
-  - The initial lack of normalization has resulted in poor performance of the SVM model. Despite spending significant time adjusting the SVM parameters, the model still showed poor accuracy. However, after performing normalization, we observed a significant improvement in the accuracy of our SVM model.
-- Exploring Various Machine Learning Models for Accurate Predictions
-  - Supervised learning: Classification Tree, Random Forest, Logistic Regression, K Nearest Neighbour, Support Vector Machines, Multi-Layer Perceptron
-  - Unsupervised learning: Principal Component Analysis
-  - Use of Cross-Validation to evaluate the accuracy of each model
-- Ensemble Vote model
+- Model exploration
+  - TApply other machine learning models that might be better suited for the data characteristics. Neural networks, support vector machines, or ensemble methods may reveal different insights.
+  - Use regularization techniques in logistic regression (e.g., Ridge or Lasso) to prevent overfitting and to handle multicollinearity.
+- Cross-Validation(CV)
+  - Employ cross-validation techniques to assess model stability and reliability, rather than relying on a single train-test split.
+  - Use stratified sampling in the cross-validation to maintain the proportion of classes across folds.
 
-## Group Members
+ ## Group Members
 
 | Name | Email | 
 | --- | --- | 
