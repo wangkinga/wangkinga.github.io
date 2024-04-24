@@ -6,7 +6,7 @@ In this project, we explore how to become more attractive on dating app(lovoo).
 
 The main page of our project is [here](https://wangkinga.github.io/).
 
-And our presentation video is [here](https://www.youtube.com/watch?v=sWD81_SmO8E).
+And our presentation video is [here](https://www.youtube.com/watch?v=ILE9QUTryWs).
 
 ## Content
 
