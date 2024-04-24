@@ -114,8 +114,8 @@ Sub-problem
 
 | Name | Email | Contribution |
 | --- | --- | --- | 
-| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) | 
-| Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | 
+| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) | Machine Learning, Conclusion, Slides , Script |
+| Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | Motivation , Problem formulation , Data Preparation , Slides , Script |
 
 ## Reference
 
