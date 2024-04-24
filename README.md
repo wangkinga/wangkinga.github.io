@@ -127,6 +127,6 @@ Various resources were used to help us gain a better understanding of the projec
    - Helped us gain a basic understanding of machine learning.
    - Lab classes guided us to start using Jupyter Notebook.
 4. [ChatGPT](https://chat.openai.com/)
-   - Help us finish code in X-tra way
+   - Help us understand the code.
    - Help us debug code when it's not working properly.
 
