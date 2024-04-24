@@ -89,7 +89,7 @@ How to become more attractive in dating app?
 
 Insights 
 
-> -  Distance seems to play a significant role in user engagement, as suggested by the chi-square test results between distance_category and kisses_category.
+> - Distance seems to play a significant role in user engagement, as suggested by the chi-square test results between distance_category and kisses_category.
 > - The levels of expressed flirtatious interest are strongly associated with the likelihood of receiving more 'kisses', an indicator of attractiveness on the platform.
 > - The logistic regression analysis highlighted the importance of specific categories within flirt interest and distance_category, quantifying their unique impacts on the likelihood of higher kisses_category.
 > - The use of decision trees demonstrated the importance of counts_kisses as a feature, and how different variables interact with it to affect a user's perceived attractiveness.
@@ -104,7 +104,7 @@ Sub-problem
 ## Improvements
 
 - Model exploration
-  - TApply other machine learning models that might be better suited for the data characteristics. Neural networks, support vector machines, or ensemble methods may reveal different insights.
+  - Apply other machine learning models that might be better suited for the data characteristics. Neural networks, support vector machines, or ensemble methods may reveal different insights.
   - Use regularization techniques in logistic regression (e.g., Ridge or Lasso) to prevent overfitting and to handle multicollinearity.
 - Cross-Validation(CV)
   - Employ cross-validation techniques to assess model stability and reliability, rather than relying on a single train-test split.
