@@ -112,9 +112,9 @@ Sub-problem
 
  ## Group Members
 
-| Name | Email | 
-| --- | --- | 
-| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) |
+| Name | Email | Contribution |
+| --- | --- | --- | 
+| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) | 
 | Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | 
 
 ## Reference
